@@ -7,6 +7,7 @@
   "scripts": {
     "init-keypair": "tsx src/init.ts",
     "moving-window": "tsx src/moving_window.ts",
+    "moving-window-simple": "tsx src/moving_window_simple.ts",
     "merchant": "tsx src/merchant.ts",
     "lootboxes": "tsx src/lootboxes.ts",
     "staking": "tsx src/staking.ts",
